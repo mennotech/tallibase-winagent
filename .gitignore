@@ -1,0 +1,5 @@
+# Ignore cached credentials files
+.tallibaseredential_*.xml
+
+# Ignore log files
+logs\*.log
